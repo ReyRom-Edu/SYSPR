@@ -305,7 +305,7 @@ section .text
 
 ## Общая таблица регистров
 
-<table border="1" style="text-align:center; font-family: Courier New; font-size: 8pt">
+<table width="1000" border="1" style="text-align:center; font-family: Courier New; font-size: 8pt">
 <tbody>
     <tr>
         <td colspan="8" width="10%">63-0</td>
@@ -358,7 +358,7 @@ section .text
 </tbody>
 </table>
 
-<table border="1" style="text-align:center; font-family: Courier New; font-size: 8pt">
+<table width="1000" border="1" style="text-align:center; font-family: Courier New; font-size: 8pt">
 <tbody>
     <tr>
         <td colspan="8" width="10%">RSP</td>
@@ -406,7 +406,7 @@ section .text
 </tbody>
 </table>
 
-<table border="1" style="text-align:center; font-family: Courier New; font-size: 8pt">
+<table width="1000" border="1" style="text-align:center; font-family: Courier New; font-size: 8pt">
 <tbody>
     <tr>
         <td colspan="8" width="10%">RFLAGS</td>
